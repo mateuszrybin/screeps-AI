@@ -56,8 +56,6 @@ module.exports =
 
 	var _game2 = _interopRequireDefault(_game);
 
-	var _corp = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./corp\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	function loop() {
